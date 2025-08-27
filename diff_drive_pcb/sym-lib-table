@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Teensy")(type "Legacy")(uri "/home/shenlong/ROS2_ws/project_W/schematic_files/teensy_library/teensy.lib")(options "")(descr "Symbols for teensy"))
+)
