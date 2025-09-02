@@ -3,4 +3,5 @@
   (lib (name "Teensy")(type "Legacy")(uri "/home/shenlong/ROS2_ws/project_W/schematic_files/teensy_library/teensy.lib")(options "")(descr "Symbols for teensy"))
   (lib (name "TB6612FNG")(type "KiCad")(uri "${KIPRJMOD}/TB6612FNG.kicad_sym")(options "")(descr ""))
   (lib (name "mpu9250")(type "KiCad")(uri "${KIPRJMOD}/mpu9250.kicad_sym")(options "")(descr ""))
+  (lib (name "vl53l0x_breakout")(type "KiCad")(uri "${KIPRJMOD}/vl53l0x_breakout.kicad_sym")(options "")(descr ""))
 )
