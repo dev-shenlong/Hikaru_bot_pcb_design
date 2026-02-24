@@ -4,4 +4,5 @@
   (lib (name "TB6612FNG")(type "KiCad")(uri "${KIPRJMOD}/TB6612FNG.kicad_sym")(options "")(descr ""))
   (lib (name "mpu9250")(type "KiCad")(uri "${KIPRJMOD}/mpu9250.kicad_sym")(options "")(descr ""))
   (lib (name "vl53l0x_breakout")(type "KiCad")(uri "${KIPRJMOD}/vl53l0x_breakout.kicad_sym")(options "")(descr ""))
+  (lib (name "MDD3A")(type "KiCad")(uri "${KIPRJMOD}/MDD3A.kicad_sym")(options "")(descr ""))
 )
