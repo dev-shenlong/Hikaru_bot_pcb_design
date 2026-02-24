@@ -1,0 +1,12 @@
+Plotted to '/home/shenlong/ROS2_ws/project_W/schematic_files/diff_drive_pcb/Outputs/diff_drive_pcb-F_Cu.gbr'.
+Plotted to '/home/shenlong/ROS2_ws/project_W/schematic_files/diff_drive_pcb/Outputs/diff_drive_pcb-B_Cu.gbr'.
+Plotted to '/home/shenlong/ROS2_ws/project_W/schematic_files/diff_drive_pcb/Outputs/diff_drive_pcb-F_Paste.gbr'.
+Plotted to '/home/shenlong/ROS2_ws/project_W/schematic_files/diff_drive_pcb/Outputs/diff_drive_pcb-B_Paste.gbr'.
+Plotted to '/home/shenlong/ROS2_ws/project_W/schematic_files/diff_drive_pcb/Outputs/diff_drive_pcb-F_Silkscreen.gbr'.
+Plotted to '/home/shenlong/ROS2_ws/project_W/schematic_files/diff_drive_pcb/Outputs/diff_drive_pcb-B_Silkscreen.gbr'.
+Plotted to '/home/shenlong/ROS2_ws/project_W/schematic_files/diff_drive_pcb/Outputs/diff_drive_pcb-F_Mask.gbr'.
+Plotted to '/home/shenlong/ROS2_ws/project_W/schematic_files/diff_drive_pcb/Outputs/diff_drive_pcb-B_Mask.gbr'.
+Plotted to '/home/shenlong/ROS2_ws/project_W/schematic_files/diff_drive_pcb/Outputs/diff_drive_pcb-Edge_Cuts.gbr'.
+Created Gerber job file '/home/shenlong/ROS2_ws/project_W/schematic_files/diff_drive_pcb/Outputs/diff_drive_pcb-job.gbrjob'.
+Info: Done.
+Info: Done.
